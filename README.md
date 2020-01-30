@@ -5,4 +5,8 @@ Azure Functions that create Events, Metrics, and Exceptions in Azure Application
 Invoke from anything that can invoke an Azure Function including Power Apps and Flows.
 
 # See them in action
-Watch these videos to see how to use these Azure Functions inside Power Apps and Flows.
+See these resources to learn how to use these Azure Functions inside Power Apps and Flows.
+
+[YouTube video - Power Apps Error Handling](https://www.youtube.com/watch?v=2wceC7ib7nk)
+[Blog - How to log Power Apps errors and telemtry](https://toddbaginski.com/blog/how-to-log-powerapps-errors-and-telemetry/)
+[Microsoft Ignite 2019 Session - Professional Power Apps development patterns: Error handling, logging, and telemetry](https://myignite.techcommunity.microsoft.com/sessions/78935)
