@@ -7,6 +7,9 @@ Invoke from anything that can invoke an Azure Function including Power Apps and 
 # See them in action
 See these resources to learn how to use these Azure Functions inside Power Apps and Flows.
 
-- [YouTube video - Power Apps Error Handling](https://www.youtube.com/watch?v=2wceC7ib7nk)
+- [YouTube video - ](https://youtu.be/HqKHuDeEkXs)
+  - This video builds on the error handling pattern I demonstrate in a previous video. I highly recommend you watch the error handling video first. Here’s a link to it. https://www.youtube.com/watch?v=2wceC7ib7nk
+
 - [Blog - How to log Power Apps errors and telemtry](https://toddbaginski.com/blog/how-to-log-powerapps-errors-and-telemetry/)
+
 - [Microsoft Ignite 2019 Session - Professional Power Apps development patterns: Error handling, logging, and telemetry](https://myignite.techcommunity.microsoft.com/sessions/78935)
